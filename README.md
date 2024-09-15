@@ -1,2 +1,3 @@
 # Human_Computer_Interaction
-Hello World!
+A collection of resources, assignments, and insights focused on enhancing understanding
+of the principles and practices of HCI. 
